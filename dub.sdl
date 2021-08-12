@@ -1,0 +1,5 @@
+name "mqtt-decoder"
+description "A minimal D application."
+authors "seeseemelk"
+copyright "Copyright © 2021, seeseemelk"
+license "proprietary"

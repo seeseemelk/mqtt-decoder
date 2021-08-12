@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/mqtt-decoder
+mqtt-decoder.so
+mqtt-decoder.dylib
+mqtt-decoder.dll
+mqtt-decoder.a
+mqtt-decoder.lib
+mqtt-decoder-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.txt
